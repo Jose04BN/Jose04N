@@ -24,10 +24,15 @@
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python, Java, JavaScript, SQL  
-**Backend:** REST APIs, Node.js (familiar), Spring Boot (familiar)  
-**Databases:** MySQL  
-**Tools:** Git, Linux, AWS EC2, VPS  
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) 
 
 ---
 
